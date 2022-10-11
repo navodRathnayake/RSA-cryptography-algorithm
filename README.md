@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1y24faxg0nm2VgbXEJEHrP1XYCyWjgYkf?usp=sha
 [*]- Language : C#
 ------------------------------------------------------------------------------------
 
-[COurse Work Details]
+[Course Work Details]
 
 For this assignment you should implement a pair of programs to encrypt and decrypt text files using the
 RSA public-key cryptography algorithm. The purpose of the assignment is to gain some experience
