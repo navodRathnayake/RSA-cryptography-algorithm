@@ -1,7 +1,7 @@
 # RSA-cryptography-algorithm
 The following program has developed for the software security cw.
 
-[*]THERE ARE TWO METHODS TO RUN THIS APPLICATION
+#THERE ARE TWO METHODS TO RUN THIS APPLICATION
 	[1] RUN THE APPLICATION USING CMD
 	[2] RUN THE APPLICATION USING VISUAL STUDIO
 
