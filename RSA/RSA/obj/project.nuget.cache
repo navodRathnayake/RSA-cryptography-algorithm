@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KsrvWiH8FAdNXtyL74IMEcIiZ/kkrPUBzBAEfsCnAPCbOtF3v6BgBDxvYBvO8PQVII+Yqx1tFHMes1PNUlXDog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\CW Program\\RSA\\RSA\\RSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

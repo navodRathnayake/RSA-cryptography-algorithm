@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RSA": {
+      "commandName": "Project",
+      "commandLineArgs": "public.pem source.txt cipher.txt"
+    }
+  }
+}
