@@ -5,17 +5,19 @@ The following program has developed for the software security cw.
 	[1] RUN THE APPLICATION USING CMD
 	[2] RUN THE APPLICATION USING VISUAL STUDIO
 
-[METHOD-1] 
+[METHOD-1]
+-----------------------------------------------------------------------------------
 	[1]- find the RSA.exe (CW Program\RSA\RSA\bin\Debug\netcoreapp3.1)
 	[2]- open cmd from above file path
 	[3]- run the command (RSA.exe public.pem your_source.txt your_cipher.txt)
 
 [METHOD-2]
+-----------------------------------------------------------------------------------
 	[1]- open the project from visual studio
 	[2]- add parameters (Properties->Debug->application arguments)
 	[3]- run the project
 
-[NOTE]
+[Link]
 ------------------------------------------------------------------------------------
 [*]- video link 
 https://drive.google.com/drive/folders/1y24faxg0nm2VgbXEJEHrP1XYCyWjgYkf?usp=sharing
